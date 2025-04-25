@@ -7,4 +7,3 @@ author: "Chetana Baliga, <strong>Sandipan Majhi</strong>, Kajari Mondal, Antara 
 authors: "Chetana Baliga, <strong>Sandipan Majhi</strong>, Kajari Mondal, Antara Bhattacharjee, K. VijayRaghavan,and Raghavan Varadarajan"
 venue: "PNAS"
 ---
-Brief description of the project.
