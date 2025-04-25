@@ -1,11 +1,11 @@
 ---
 title:  "Rational elicitation of cold-sensitive phenotypes"
-date:   "2016"
+date:   2016
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong><a href='https://vsimkus.github.io/academic-jekyll/'>Chetana Baliga, Sandipan Majhi, Kajari Mondal, Antara Bhattacharjee, K. VijayRaghavan,and Raghavan Varadarajana</a></strong>"
-venue: "Venue"
+author: "<strong>Chetana Baliga, Sandipan Majhi, Kajari Mondal, Antara Bhattacharjee, K. VijayRaghavan,and Raghavan Varadarajana</strong>"
+authors: "<strong>Chetana Baliga, Sandipan Majhi, Kajari Mondal, Antara Bhattacharjee, K. VijayRaghavan,and Raghavan Varadarajana</strong>"
+venue: "PNAS"
 bib: |
   @article{
       doi:10.1073/pnas.1604190113,
