@@ -1,17 +1,24 @@
 ---
-title:  "Title of the publication"
+title:  "Rational elicitation of cold-sensitive phenotypes"
 date:   2021-07-13 09:26:00 +00:00
 image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: "John Doe"
-authors: "<strong><a href='https://vsimkus.github.io/academic-jekyll/'>John Doe</a></strong>"
+authors: "<strong><a href='https://vsimkus.github.io/academic-jekyll/'>Chetana Baliga, Sandipan Majhi, Kajari Mondal, Antara Bhattacharjee, K. VijayRaghavan,and Raghavan Varadarajana</a></strong>"
 venue: "Venue"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Title of the publication},
-    year = {2021}
-  }
+  @article{
+doi:10.1073/pnas.1604190113,
+author = {Chetana Baliga  and Sandipan Majhi  and Kajari Mondal  and Antara Bhattacharjee  and K. VijayRaghavan  and Raghavan Varadarajan },
+title = {Rational elicitation of cold-sensitive phenotypes},
+journal = {Proceedings of the National Academy of Sciences},
+volume = {113},
+number = {18},
+pages = {E2506-E2515},
+year = {2016},
+doi = {10.1073/pnas.1604190113},
+URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1604190113},
+eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.1604190113},
+abstract = {Temperature-sensitive (ts) and cold-sensitive mutants (cs) provide rapid and reversible means to lower the level of a specific gene product at any stage in the life cycle of an organism. cs mutants are rare, and the molecular determinants of cs phenotypes are poorly understood. We present and validate a method for the rational elicitation of cold-sensitive phenotypes that involves the design of partial loss-of-function mutants based solely on amino acid sequence, and the coupling of such mutants to a heat responsive promoter. This study provides insight into the molecular determinants of cold sensitivity. Such designed cs mutants provide insight into gene function and also can be coupled with ts mutants to order genes in a pathway. Cold-sensitive phenotypes have helped us understand macromolecular assembly and biological phenomena, yet few attempts have been made to understand the basis of cold sensitivity or to elicit it by design. We report a method for rational design of cold-sensitive phenotypes. The method involves generation of partial loss-of-function mutants, at either buried or functional sites, coupled with selective overexpression strategies. The only essential input is amino acid sequence, although available structural information can be used as well. The method has been used to elicit cold-sensitive mutants of a variety of proteins, both monomeric and dimeric, and in multiple organisms, namely Escherichia coli, Saccharomyces cerevisiae, and Drosophila melanogaster. This simple, yet effective technique of inducing cold sensitivity eliminates the need for complex mutations and provides a plausible molecular mechanism for eliciting cold-sensitive phenotypes.}}
 ---
 Brief description of the project.
