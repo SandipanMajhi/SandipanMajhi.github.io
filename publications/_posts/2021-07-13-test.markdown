@@ -7,8 +7,7 @@ author: "<strong>Chetana Baliga, Sandipan Majhi, Kajari Mondal, Antara Bhattacha
 authors: "<strong>Chetana Baliga, Sandipan Majhi, Kajari Mondal, Antara Bhattacharjee, K. VijayRaghavan,and Raghavan Varadarajana</strong>"
 venue: "PNAS"
 bib: |
-  @article{pnas2016,
-      doi:10.1073/pnas.1604190113,
+  @article{Pnas2016,
       author = {Chetana Baliga  and Sandipan Majhi  and Kajari Mondal  and Antara Bhattacharjee  and K. VijayRaghavan  and Raghavan Varadarajan },
       title = {Rational elicitation of cold-sensitive phenotypes},
       journal = {Proceedings of the National Academy of Sciences},
